@@ -4,10 +4,10 @@ import HomePage from './components/HomePage/HomePage';
 function App() {
   return (
     <div className="App">
-     <HomePage/>hhhhhh
+     <HomePage/>hhhhhhmommo
+Moshe The King
     </div>
   );
 }
-mommo
-Moshe The King
+
 export default App;
